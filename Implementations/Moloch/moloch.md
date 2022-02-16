@@ -151,9 +151,9 @@ This expands to...
 ]
 ```
 
-### Constitution URI
+### governanceURI
 
-Constitution URI leads to an IPFS hosted markdown file with information about the DAO’s purpose.
+governanceURI leads to an IPFS hosted markdown file with information about the DAO’s purpose.
 
 ### Activity Log
 
